@@ -1,5 +1,6 @@
-# Flipkart-Lite-PWA
-Unofficial  E-Commerce PWA inspired by Flipkart's Progressive web App - Flipkart Lite.
+# Flipkart Lite Progressive Web Application(PWA)
+
+Unofficial E-Commerce Progressive web App inspired by Flipkart Lite.
 
 ### Technology used :-
 
