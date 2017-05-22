@@ -1,0 +1,5 @@
+.editorconfig
+.gitignore
+.travis.yml
+test
+yarn.lock
