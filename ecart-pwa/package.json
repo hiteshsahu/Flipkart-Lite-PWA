@@ -8,7 +8,8 @@
     "build": "preact build",
     "serve": "preact build && preact serve",
     "dev": "preact watch",
-    "test": "eslint src && preact test"
+    "test": "eslint src && preact test",
+    "lint": "eslint {ecart-pwa,test}"
   },
   "keywords": [],
   "author": "",
